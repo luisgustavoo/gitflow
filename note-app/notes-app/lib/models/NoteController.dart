@@ -7,7 +7,7 @@ class NoteController extends ChangeNotifier {
   var _item = <Note>[];
 
   Future<void> getNotes() async {
-    final snapshot = await FirebaseFirestore.instance.collection('notes').get();
+    final snapshot = await FirebaseFirestore.instance.collection('note').get();
 
     _item = List<Note>.from(
         snapshot.docs.map((notes) => Note.fromMap(notes.data()))).toList();
