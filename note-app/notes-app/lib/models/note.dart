@@ -9,6 +9,7 @@ class Note extends ChangeNotifier {
   final String title;
   final String content;
   final String imagePath;
+  final String url;
 
   final FirebaseFirestore firestore = FirebaseFirestore.instance;
   final FirebaseStorage storage = FirebaseStorage.instance;
