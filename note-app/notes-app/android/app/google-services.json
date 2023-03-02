@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237442285943",
+    "project_id": "trabalhofinaldpm",
+    "storage_bucket": "trabalhofinaldpm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237442285943:android:97b34e50a69567e4036172",
+        "android_client_info": {
+          "package_name": "com.flutterflow.trabalhofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237442285943-ht7lltdiskvtfgq7ko6cgo4rretjfp7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK2by0_jjQWCgSBv1Lg3DyGxiog2YLQz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237442285943-ht7lltdiskvtfgq7ko6cgo4rretjfp7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
