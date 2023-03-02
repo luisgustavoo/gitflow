@@ -79,7 +79,7 @@ class _NoteViewScreenState extends State<NoteViewScreen> {
                     size: 18,
                   ),
                 ),
-                Text('${selectedNote?.date}')
+                Text('${selectedNote?.date} teste')
               ],
             ),
             if (selectedNote.imagePath != null)

@@ -14,7 +14,7 @@ class DeletePopUp extends StatelessWidget {
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(5),
       ),
-      title: Text('Delete?'),
+      title: Text('Deseja deletar?'),
       content: Text('Do you want to delete the note?'),
       actions: [
         TextButton(
