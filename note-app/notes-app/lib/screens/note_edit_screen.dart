@@ -13,7 +13,7 @@ import 'package:provider/provider.dart';
 import 'note_view_screen.dart';
 
 class NoteEditScreen extends StatefulWidget {
-  static const route = '/edit-note';
+  static const route = '/edit-note1';
 
   @override
   _NoteEditScreenState createState() => _NoteEditScreenState();

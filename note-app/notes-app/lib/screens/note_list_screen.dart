@@ -72,7 +72,7 @@ class NoteListScreen extends StatelessWidget {
             bottomRight: Radius.circular(75.0),
           ),
         ),
-        height: 150.0,
+        height: 155.0,
         width: double.infinity,
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
