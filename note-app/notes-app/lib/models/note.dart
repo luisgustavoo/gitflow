@@ -59,7 +59,7 @@ class Note extends ChangeNotifier {
 
     await documentReferencer
         .delete()
-        .whenComplete(() => print('Note item deleted from the database'))
+        .whenComplete(() => print('Note item deleted from the databases'))
         .catchError((e) => print(e));
   }
 
