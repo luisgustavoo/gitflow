@@ -7,6 +7,7 @@ const black = Color(0xFF1C1C1C);
 const black2 = Color(0xFF424242);
 const headerColor = Color(0xFFFD5872);
 const headerColor2 = Color(0xFF424262);
+const headerColor2 = Color(0xFFFD5872);
 const white = Colors.white;
 var headerRideStyle = GoogleFonts.roboto(
   textStyle: TextStyle(
