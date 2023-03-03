@@ -10,7 +10,11 @@ const headerColor2 = Color(0xFF424262);
 const headerColor2 = Color(0xFFFD5872);
 const headerColor4 = Color(0xFFFD5872);
 const headerColor3 = Color(0xFFFD5872);
+
+const headerColor6 = Color(0xFFFD5872);
+
 const headerColor5 = Color(0xFFFD5872);
+
 const white = Colors.white;
 var headerRideStyle = GoogleFonts.roboto(
   textStyle: TextStyle(
